@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    font-family: 'VT323', monospace;
+    color: rgb(230, 230, 230);
+    background-color: rgb(17, 17, 17);
+}
